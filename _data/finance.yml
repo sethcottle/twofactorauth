@@ -264,6 +264,14 @@ websites:
       tfa: Yes
       phone: Yes
 
+    - name: PennyMac
+      url: https://pennymacusa.com
+      img: pennymac.png
+      tfa: Yes
+      sms: Yes
+      email: Yes
+      software: Yes
+
     - name: Pocketsmith
       url: https://www.pocketsmith.com
       img: pocketsmith.png
